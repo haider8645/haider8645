@@ -16,8 +16,8 @@ I'm Haider, a robotics engineer at DFKI GmbH in Bremen, Germany. I specialize in
   In Review: [JOSS-Review](https://github.com/openjournals/joss-reviews/issues/9042#issuecomment-3477250592)
 
 - [Accepted] **GSeg3D: A High-Precision Grid-Based Algorithm for Safety-Critical Ground Segmentation in LiDAR Point Clouds**  
-  *Muhammad Haider Khan Lodhi, Christoph Hertzberg*
-   In *7th International Conference on Robotics and Computer Vision (ICRCV 2025)*, 24.10.-26.10.2025, Hong Kong, China, IEEE, October 2025.
+  *Muhammad Haider Khan Lodhi, Christoph Hertzberg* \
+  In *7th International Conference on Robotics and Computer Vision (ICRCV 2025)*, 24.10.-26.10.2025, Hong Kong, China, IEEE, October 2025.
   
 - [Accepted] **Beyond Teleoperation: Autonomous-Assisted Soil Sampling for Decontamination in Hazardous Environments Using a Walking Excavator**  
   *Yuhan Jin, Muhammad Haider Khan Lodhi, Fabian Maas genannt Bermpohl, Pierre Willenbrock, Christoph Hertzberg, Steffen Planthaber, Babu Ajish, Daniel Kuehn, Frank Kirchner*  
