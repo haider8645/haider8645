@@ -18,7 +18,7 @@ I'm Haider, a robotics engineer at DFKI GmbH in Bremen, Germany. I specialize in
   *Muhammad Haider Khan Lodhi, Christoph Hertzberg* \
   In *7th International Conference on Robotics and Computer Vision (ICRCV 2025)*, 24.10.-26.10.2025, Hong Kong, China, IEEE, October 2025.
   
-- [Accepted] **Beyond Teleoperation: Autonomous-Assisted Soil Sampling for Decontamination in Hazardous Environments Using a Walking Excavator**  
+- [Published](https://ieeexplore.ieee.org/document/11391319) **Beyond Teleoperation: Autonomous-Assisted Soil Sampling for Decontamination in Hazardous Environments Using a Walking Excavator**  
   *Yuhan Jin, Muhammad Haider Khan Lodhi, Fabian Maas genannt Bermpohl, Pierre Willenbrock, Christoph Hertzberg, Steffen Planthaber, Babu Ajish, Daniel Kuehn, Frank Kirchner*  
   In *2025 IEEE International Symposium on Safety Security Rescue Robotics (SSRR)*, (SSRR-2025), 29.10.-31.10.2025, Galway, IEEE, October 2025.
   
