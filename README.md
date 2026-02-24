@@ -13,6 +13,7 @@ I'm Haider, a robotics engineer at DFKI GmbH in Bremen, Germany. I specialize in
 ### 2025  
 - [[Published](https://doi.org/10.21105/joss.09410)] **traversability_generator3d: A C++ library for 3D traversability estimation from MLS maps**  
   *Muhammad Haider Khan Lodhi, Christoph Hertzberg, Arne Böckmann, Janosch Machowinski*
+   In *Journal of Open Source Software (JOSS)*, February 2026.  
   
 - [[Published](https://ieeexplore.ieee.org/document/11349133)] **GSeg3D: A High-Precision Grid-Based Algorithm for Safety-Critical Ground Segmentation in LiDAR Point Clouds**  
   *Muhammad Haider Khan Lodhi, Christoph Hertzberg* \
